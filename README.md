@@ -1,4 +1,4 @@
-# ⭕❌ Project Title: Java Tic Tac Toe Game GUI
+# ⭕❌ Tic Tac Toe
 
 ## 📝 Description
 
